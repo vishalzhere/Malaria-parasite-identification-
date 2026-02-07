@@ -1,4 +1,5 @@
 🦠 Malaria Parasite Detection from Cell Images Using Deep Learning
+
 🌍 Project Overview
 
 Malaria is a life-threatening parasitic disease that continues to affect millions worldwide, particularly in regions with limited access to expert diagnostic facilities. Microscopic examination of blood smear images remains the gold standard for malaria diagnosis, yet it is time-consuming and dependent on skilled professionals.
@@ -122,5 +123,6 @@ Google Colab
 This project demonstrates how transfer learning can be effectively applied to medical image analysis, providing an automated and scalable diagnostic aid. By focusing on both performance and efficiency, the system aligns well with real-world healthcare deployment scenarios.
 
 🧾 Conclusion
+
 
 The developed pipeline addresses real-world challenges in malaria diagnosis by combining robust preprocessing, efficient model design, and clinically meaningful evaluation. This work highlights the growing role of deep learning in enhancing healthcare accessibility and diagnostic accuracy.
